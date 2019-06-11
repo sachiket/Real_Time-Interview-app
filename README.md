@@ -1,4 +1,4 @@
-# med_app
+# Real_Time Interview app
 
 A new Flutter application.
 
