@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150346587656",
+    "firebase_url": "https://med-app-apk.firebaseio.com",
+    "project_id": "med-app-apk",
+    "storage_bucket": "med-app-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150346587656:android:5f77d83f16bfc059",
+        "android_client_info": {
+          "package_name": "com.project1.med_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150346587656-o2il2br699lqcnan4vtc8a52o06mg1ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApzb8pad6Jpr0d0l39a9FlxMIEKhTDGWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150346587656-o2il2br699lqcnan4vtc8a52o06mg1ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
