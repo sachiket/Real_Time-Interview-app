@@ -134,8 +134,7 @@ class _LoginPageState extends State<Login> {
 
 
 
-
-
+#padding given 
 
   Widget padded({Widget child}) {
     return new Padding(
@@ -144,4 +143,3 @@ class _LoginPageState extends State<Login> {
     );
   }
 }
-
