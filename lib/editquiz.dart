@@ -1,4 +1,4 @@
-
+#set of questions for quiz
 import 'dart:async';
 import 'package:med_app/admin_main.dart';
 import 'package:flutter/material.dart';
@@ -27,7 +27,7 @@ class _EditquizPageState extends State<EditquizPage> {
 
   StreamSubscription _subscriptionName;
 
-  
+
   bool save(){
     final form = strkey.currentState;
     return true;
@@ -168,7 +168,7 @@ class _EditquizPageState extends State<EditquizPage> {
             ),
           ),
           new Padding(padding: new EdgeInsets.all(10)),
-        
+
 
           widget.num==1?
           new SwitchListTile(
@@ -287,7 +287,7 @@ class _EditquizPageState extends State<EditquizPage> {
 
 
 
-          
+
           new Padding(padding: new EdgeInsets.all(15)),
 
           widget.num ==1? new FlatButton(
@@ -311,11 +311,11 @@ class _EditquizPageState extends State<EditquizPage> {
           ),
           child: new Text("Submit")),
 
-          
-          
-          
-          
-          
+
+
+
+
+
         ],
       ),
     );
@@ -341,8 +341,8 @@ class history_page extends State<history>{
      Database.remove(quizkey);
 
   }
-  
-  
+
+
   void delet(){
     Database.removeall();
     return;
@@ -443,7 +443,7 @@ class history_page extends State<history>{
 
         ),
         actions: <Widget>[
-          new FlatButton(onPressed: delet, 
+          new FlatButton(onPressed: delet,
               child: Text("Clear All",
                 style: new TextStyle(
                   color: Colors.white,
@@ -451,8 +451,8 @@ class history_page extends State<history>{
                 ),
 
               ),
-              
-              
+
+
           )
         ],
       ),
