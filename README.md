@@ -1,6 +1,6 @@
 # Real_Time Interview app
 
-A Flutter Real_time Interview application with real time Firebase.
+A Flutter real-time Interview application with real time Firebase.
 
 ## Getting Started
 
