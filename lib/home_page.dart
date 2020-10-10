@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:med_app/auth.dart';
 import 'package:med_app/home_question_page.dart';
 import 'package:med_app/score_result.dart';
-
+// This is the homepage of the application
 class HomePage extends StatelessWidget {
   HomePage({this.auth, this.onSignOut});
   final BaseAuth auth;
