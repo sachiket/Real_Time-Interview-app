@@ -1,3 +1,5 @@
+Lots of repetition in code..could be more organised!!
+
 # Real_Time Interview app
 
 A Flutter is a real-time Interview application with real time Firebase.
